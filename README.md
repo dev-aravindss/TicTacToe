@@ -1,4 +1,4 @@
-# 🕹️ Tic-Tac-Toe Game
+# 🕹️ TicTacToe Game
 
 A classic game of Tic-Tac-Toe developed purely using front-end technologies: HTML, CSS, and vanilla JavaScript.
 
