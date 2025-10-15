@@ -18,10 +18,9 @@ You don't need any special server or installation to run this game. Just follow 
 
 1.  **Clone the Repository (Optional):**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/TicTacToe.git](https://github.com/YOUR_USERNAME/TicTacToe.git)
+    git clone https://github.com/dev-aravindss/TicTacToe.git
     cd TicTacToe
     ```
-    *(Replace `YOUR_USERNAME` with your GitHub username)*
 
 2.  **Download Files:** If you don't use Git, simply download the repository as a ZIP file and extract the contents.
 
@@ -41,4 +40,3 @@ The project consists of three main files:
 | `index.html` | The structure of the game (the board, status text, and reset button). |
 | `style.css` | The visual presentation, styling the board into a grid and defining the look of X's and O's. |
 | `script.js` | The core game logic: handling clicks, switching turns, checking win conditions, and resetting the game state. |
-for free and easily using static hosting services.
